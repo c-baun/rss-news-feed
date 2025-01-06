@@ -1,0 +1,1 @@
+print("Summarize this article and mark key words/phrases with **. If the article mentions a stock, mark the related ticker symbol with ** and describe the article's stock outlook. The format should be as follows:\n[summary]\n[**stock** if applicable]: [analysis]\nLimit to 200 tokens. URL:")
